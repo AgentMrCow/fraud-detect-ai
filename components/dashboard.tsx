@@ -141,7 +141,7 @@ export default function Dashboard() {
                                         <SidebarMenuButton>
                                             <Avatar className="h-5 w-5 mr-1">
                                                 <AvatarImage src="/placeholder-user.jpg" />
-                                                <AvatarFallback>JD</AvatarFallback>
+                                                <AvatarFallback>NN</AvatarFallback>
                                             </Avatar>
                                             <span>Nelson Niu</span>
                                             <ChevronDown className="h-4 w-4 ml-auto" />
@@ -199,7 +199,7 @@ export default function Dashboard() {
                         </TooltipProvider>
                         <Avatar>
                             <AvatarImage src="/placeholder-user.jpg" />
-                            <AvatarFallback>JD</AvatarFallback>
+                            <AvatarFallback>NN</AvatarFallback>
                         </Avatar>
                     </header>
                     <main className="flex-1 p-4 md:p-6">
