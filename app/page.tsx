@@ -86,13 +86,17 @@ export default function Home() {
                 </p>
               </div>
               <div className="flex flex-col gap-2 min-[400px]:flex-row">
-                <Button size="lg" className="gap-1">
-                  <Zap className="h-4 w-4" />
-                  Request Demo
-                </Button>
-                <Button size="lg" variant="outline">
-                  Learn More
-                </Button>
+                <Link href="/dashboard">
+                  <Button size="lg" className="gap-1">
+                    <Zap className="h-4 w-4" />
+                    Request Demo
+                  </Button>
+                </Link>
+                <Link href="/ai-capabilities">
+                  <Button size="lg" variant="outline">
+                    Learn More
+                  </Button>
+                </Link>
               </div>
             </div>
             <div className="flex justify-center">
