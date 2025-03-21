@@ -24,7 +24,7 @@ export default function TechnicalArchitecture() {
 
           <div className="w-full">
             <Image
-              src="/placeholder.svg?height=400&width=1000"
+              src="/Arch.png?height=400&width=1000"
               width={1000}
               height={400}
               alt="System Architecture Diagram"
@@ -126,7 +126,7 @@ export default function TechnicalArchitecture() {
               <div className="mt-6">
                 <h3 className="text-xl font-bold mb-2">Model Training Pipeline</h3>
                 <Image
-                  src="/placeholder.svg?height=300&width=800"
+                  src="/GAN.png?height=300&width=800"
                   width={800}
                   height={300}
                   alt="Model Training Pipeline"
@@ -217,7 +217,7 @@ export default function TechnicalArchitecture() {
               <div className="mt-6">
                 <h3 className="text-xl font-bold mb-2">Data Flow Diagram</h3>
                 <Image
-                  src="/placeholder.svg?height=300&width=800"
+                  src="/GAN.png?height=300&width=800"
                   width={800}
                   height={300}
                   alt="Data Flow Diagram"
@@ -308,7 +308,7 @@ export default function TechnicalArchitecture() {
               <div className="mt-6">
                 <h3 className="text-xl font-bold mb-2">Infrastructure Diagram</h3>
                 <Image
-                  src="/placeholder.svg?height=300&width=800"
+                  src="/GAN.png?height=300&width=800"
                   width={800}
                   height={300}
                   alt="Infrastructure Diagram"
@@ -398,7 +398,7 @@ export default function TechnicalArchitecture() {
               <div className="mt-6">
                 <h3 className="text-xl font-bold mb-2">Integration Architecture</h3>
                 <Image
-                  src="/placeholder.svg?height=300&width=800"
+                  src="/GAN.png?height=300&width=800"
                   width={800}
                   height={300}
                   alt="Integration Architecture"

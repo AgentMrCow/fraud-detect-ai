@@ -101,7 +101,7 @@ export default function Home() {
             </div>
             <div className="flex justify-center">
               <Image
-                src="/placeholder.svg?height=400&width=500"
+                src="/dashboard.png?height=400&width=500"
                 width={500}
                 height={400}
                 alt="FraudGuard AI Platform Dashboard"
@@ -248,7 +248,7 @@ export default function Home() {
                 </div>
                 <div className="flex items-center justify-center">
                   <Image
-                    src="/placeholder.svg?height=250&width=350"
+                    src="/transaction.png?height=250&width=350"
                     width={350}
                     height={250}
                     alt="Transaction monitoring dashboard"
@@ -282,7 +282,7 @@ export default function Home() {
                 </div>
                 <div className="flex items-center justify-center">
                   <Image
-                    src="/placeholder.svg?height=250&width=350"
+                    src="/new_smart_id.png?height=250&width=350"
                     width={350}
                     height={250}
                     alt="Identity verification system"

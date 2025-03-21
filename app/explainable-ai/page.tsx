@@ -23,7 +23,7 @@ export default function ExplainableAI() {
 
           <div className="w-full">
             <Image
-              src="/placeholder.svg?height=400&width=1000"
+              src="/explain.png?height=400&width=1000"
               width={1000}
               height={400}
               alt="Explainable AI Dashboard"
@@ -127,7 +127,7 @@ export default function ExplainableAI() {
               <div className="mt-8">
                 <h3 className="text-xl font-semibold mb-4">LIME Implementation</h3>
                 <Image
-                  src="/placeholder.svg?height=300&width=800"
+                  src="/LIME.png?height=300&width=800"
                   width={800}
                   height={300}
                   alt="LIME Implementation Diagram"

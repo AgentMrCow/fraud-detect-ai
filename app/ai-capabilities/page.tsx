@@ -37,7 +37,7 @@ export default function AICapabilities() {
                         </div>
                         <div className="flex justify-center">
                             <Image
-                                src="/placeholder.svg?height=300&width=500"
+                                src="/modern-finace-solutions-with-ai-technology.jpg?height=300&width=500"
                                 width={500}
                                 height={300}
                                 alt="AI Capabilities Visualization"
@@ -183,7 +183,7 @@ export default function AICapabilities() {
                                 </div>
                                 <div className="flex justify-center">
                                     <Image
-                                        src="/placeholder.svg?height=300&width=500"
+                                        src="/transaction.png?height=300&width=500"
                                         width={500}
                                         height={300}
                                         alt="Real-Time Detection Engine Visualization"
@@ -233,7 +233,7 @@ export default function AICapabilities() {
                                 </div>
                                 <div className="flex justify-center">
                                     <Image
-                                        src="/placeholder.svg?height=300&width=500"
+                                        src="/new_smart_id.png?height=300&width=500"
                                         width={500}
                                         height={300}
                                         alt="Synthetic Data Generation Visualization"
@@ -283,7 +283,7 @@ export default function AICapabilities() {
                                 </div>
                                 <div className="flex justify-center">
                                     <Image
-                                        src="/placeholder.svg?height=300&width=500"
+                                        src="/multimodal.png?height=300&width=500"
                                         width={500}
                                         height={300}
                                         alt="Multimodal Analysis Visualization"
@@ -333,7 +333,7 @@ export default function AICapabilities() {
                                 </div>
                                 <div className="flex justify-center">
                                     <Image
-                                        src="/placeholder.svg?height=300&width=500"
+                                        src="/explain.png?height=300&width=500"
                                         width={500}
                                         height={300}
                                         alt="Explainable AI Visualization"
@@ -356,7 +356,7 @@ export default function AICapabilities() {
 
                     <div className="mb-8">
                         <Image
-                            src="/placeholder.svg?height=400&width=1000"
+                            src="/GAN.png?height=400&width=1000"
                             width={1000}
                             height={400}
                             alt="AI Technical Architecture Diagram"
