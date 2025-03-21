@@ -19,15 +19,18 @@ export const metadata: Metadata = {
 
 export default function RootLayout({
   children,
-}: Readonly<{
+}: {
   children: React.ReactNode;
-}>) {
+}) {
   return (
     <html lang="en">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        {children}
+        {/* Wrap children in a container that centers the content */}
+        <div className="mx-auto max-w-screen-xl px-4">
+          {children}
+        </div>
       </body>
     </html>
   );
